@@ -1,2 +1,2 @@
 # notes-node-app
-First Node Project(Fundamentals of Notes.js)
+First Node Project(Fundamentals of Node.js)
